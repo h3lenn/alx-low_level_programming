@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 
 /**
  * print_square - prints hashes squares.
